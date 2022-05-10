@@ -1,0 +1,22 @@
+{
+  "name": "visual-thinking-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aydin-due/visual-thinking-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aydin-due/visual-thinking-api/issues"
+  },
+  "homepage": "https://github.com/aydin-due/visual-thinking-api#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
